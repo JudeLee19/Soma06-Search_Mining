@@ -8,7 +8,7 @@ In terms of technology, our project overcame the limitations of the “bag of wo
 Analysis of user action pattern can provide links amongst gender classification, category classification and related queries. Hence, it can be used in service.
 
 - Libraries : Sklearn, Gensim, Flask, Numpy, Pandas
-- Authors : ILJI Choi (AppleHolic), Jude Lee (JudeLee19), 
+- Authors : ILJI Choi (AppleHolic), Jude Lee (JudeLee19), HaeSeong Ji (Hsji123), Jaemyung Ryu (posjmss)
 
 <br><br><br>1.name of the projects and all sub-modules and libraries
 <br>2.descriptions of all the project, and all sub-modules and libraries
