@@ -9,6 +9,8 @@ Analysis of user action pattern can provide links amongst gender classification,
 
 - Libraries : Sklearn, Gensim, Flask, Numpy, Pandas
 - Authors : ILJI Choi (AppleHolic), Jude Lee (JudeLee19), HaeSeong Ji (Hsji123), Jaemyung Ryu (posjmss)
+#Demo Webpage
+http://14.64.170.17/project
 
 #Sequence Diagram
 ![Sequence_Diagram](./SequenceDiagram.png)
